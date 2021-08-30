@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**Alejandro-16bit/Alejandro-16bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+name = "Alejandro Patino Camargo"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+education = "B.S. Computer Science, West Valley College - IP"
+
+languages = ["Java"]
+
+tech = ["open source", "APIs/SDKs", "databases", "data engineering", "applications",
+         "developer relations/advocacy"]
+
+interests = ["live music", "self development", "rubiks cube's", "35mm film development", 
+             "DJ mixing",  "productivity tools", "design", "botany",
+             "mexican cuisine"]
+
+def beAlive(self):
+  do([assignments, projects], languages);
+  learnAbout(tech);
+  pursue(interests);
+  sleep(28800);
+  return(impact);
+  
